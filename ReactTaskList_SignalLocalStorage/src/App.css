@@ -1,0 +1,23 @@
+.task-input {
+  background: lightgreen;
+  border: 1px solid gray;
+  width: 100%;
+  font-weight: bold;
+}
+
+.task {
+  float: left;
+  color: black;
+  border-left: none;
+}
+
+.task-reminder {
+  float: left;
+  border-left: thick solid brown;
+}
+
+.remove {
+  color: red;
+  font-weight: bold;
+  cursor: pointer;
+}
